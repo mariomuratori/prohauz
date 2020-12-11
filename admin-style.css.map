@@ -1,0 +1,8 @@
+{
+    "version": "3",
+    "file": "admin-style.css",
+    "sources": [
+        "admin-style.crush.css"
+    ],
+    "mappings": ";AAEA;;;;;;;AAOA;;;;;;;AAOA;;;;;;;AAOA;;;;;;;AAOA;;;;;;;;;;;;;;AAcA;;;;;AAMA;;;;;;;AAKC;;;;;;;;;;;;;;;;;;;;;AAQA;;;;;;;AACA;;;;;;;AACA;;;;;;;AACA;;;;;;;AACA;;;;;;;AACA;;;;;;;AACA;;;;;;AAMA;;;;;;;;;;;;;;;;;AAaC;;;;;;;;;;;AAMA;;;;;;;;;;;;;;;AAUA;;;;;;;;;;;;;;AASA;;;;;;;;AAGA;;;;;;;;;;;;;;;;;AAYA;;;;;;;;;;;;;;;;;;;AAcA;;;;;;;;;AAKC;;;;;;;;;;;;;;AAKF;;;;AAGA;;;;;AAKA;;;;;;;;AAMC;;;;;;;AAIA;;;;;AAKC;;;;AAKF;;;;AAGA;;;;;;;;;AAMA;;;;AAIA;;;;;AAIA;;;;AAGA;;;;AAIA;;;;AAGA;;;;AAIA;;;;AAIA;;;;;;;;;;;;AAKA;;;;;AAIA;;;;AAGA;;;;;;;;;;AAQA;;;;;;;AAKC;;;;;;AAKA;;;;;;;;;AAOC;;;;;;;;;AAYD;;;;;;;;;;AAMC;;;;"
+}
